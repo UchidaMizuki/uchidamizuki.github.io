@@ -1,3 +1,3 @@
 # uchidamizuki.github.io
 
-uchidamizuki.com のルートサイト（Cloudflare Pagesで配信）。Blogは別リポジトリ [UchidaMizuki/blog](https://github.com/UchidaMizuki/blog) で管理。
+Root site for uchidamizuki.com, served via Cloudflare Pages. The blog is managed in a separate repository: [UchidaMizuki/blog](https://github.com/UchidaMizuki/blog).
