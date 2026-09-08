@@ -1,6 +1,6 @@
 ---
 title: "Uchida Mizuki"
-description-meta: "内田瑞生 — 地域経済・産業連関分析の研究者、Rパッケージ開発者。"
+description-meta: "内田瑞生（八千代エンジニヤリング株式会社 技術創発研究所）— 地域経済・産業連関分析の研究者、Rパッケージ開発者。"
 about:
   template: jolla
   image: profile.jpg
@@ -28,6 +28,8 @@ about:
 toc: false
 comments: false
 ---
+
+内田瑞生 &nbsp;｜&nbsp; 八千代エンジニヤリング株式会社 技術創発研究所
 
 **研究者・Rパッケージ開発者 &nbsp;/&nbsp; 地域経済・産業連関分析**
 

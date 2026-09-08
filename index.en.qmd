@@ -1,6 +1,6 @@
 ---
 title: "Uchida Mizuki"
-description-meta: "Uchida Mizuki — researcher and R package developer in regional economics and input–output analysis."
+description-meta: "Uchida Mizuki (内田瑞生), Yachiyo Engineering Co., Ltd. — researcher and R package developer in regional economics and input–output analysis."
 about:
   template: jolla
   image: profile.jpg
@@ -28,6 +28,8 @@ about:
 toc: false
 comments: false
 ---
+
+内田瑞生 &nbsp;｜&nbsp; Research Institute for Infrastructure Paradigm Shift, Yachiyo Engineering Co., Ltd.
 
 **Researcher · R package developer &nbsp;/&nbsp; Regional economics & input–output analysis**
 
