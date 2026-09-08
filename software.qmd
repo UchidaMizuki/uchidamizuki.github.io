@@ -14,7 +14,6 @@ comments: false
 - [**jpcity**](https://cran.r-project.org/package=jpcity) — 日本の市区町村コードの読み取りと変換
 - [**jpgrid**](https://cran.r-project.org/package=jpgrid) — 地域メッシュコード（JIS X 0410）の操作
 - [**jpmap**](https://cran.r-project.org/package=jpmap) — 沖縄・小笠原を配置した日本地図
-- [**mojxmlr**](https://github.com/UchidaMizuki/mojxmlr) — 法務省登記所備付地図データ（地図 XML）の取得・読み込み
 
 ## データ構造・ツール
 

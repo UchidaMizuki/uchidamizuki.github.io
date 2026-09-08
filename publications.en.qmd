@@ -56,11 +56,6 @@ by their Japanese title, marked *(in Japanese)*.
 
 - **Uchida, M.**, Sugimoto, T., & Takamori, S. A proposal for an improved method of estimating social dynamics of small areas and its application to municipalities of Japan based on the census. 30th Annual Conference of the GIS Association of Japan. [PDF](https://www.yachiyo-eng.co.jp/papers/2022_185_uchida.pdf)
 
-## Discussant
-
-- 34th (2023) and 35th (2024) Annual Meetings, PAPAIOS
-- *(forthcoming)* 37th (2026) Annual Meeting, PAPAIOS
-
 ## Awards
 
 - Excellence Award, 18th MAS Competition (2018)

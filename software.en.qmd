@@ -14,7 +14,6 @@ I build R packages to make data analysis more reproducible and efficient. Source
 - [**jpcity**](https://cran.r-project.org/package=jpcity) — read and convert Japanese municipality codes
 - [**jpgrid**](https://cran.r-project.org/package=jpgrid) — functions for the Grid Square Codes (JIS X 0410)
 - [**jpmap**](https://cran.r-project.org/package=jpmap) — Japan maps with insets for Okinawa and Ogasawara
-- [**mojxmlr**](https://github.com/UchidaMizuki/mojxmlr) — download and read MOJ cadastral map XML
 
 ## Data structures & tooling
 

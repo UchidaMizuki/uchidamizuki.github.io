@@ -11,7 +11,7 @@
     "href": "software.html#japanese-official-statistics-geospatial-data",
     "title": "Software",
     "section": "Japanese official statistics & geospatial data",
-    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpcity — read and convert Japanese municipality codes\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpmap — Japan maps with insets for Okinawa and Ogasawara\nmojxmlr — download and read MOJ cadastral map XML"
+    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpcity — read and convert Japanese municipality codes\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpmap — Japan maps with insets for Okinawa and Ogasawara"
   },
   {
     "objectID": "software.html#data-structures-tooling",
@@ -49,13 +49,6 @@
     "text": "Conference presentations\n\n2026\n\nUchida, M., & Takamori, S. 「観測ノイズを含む産業別地域間交易データの経験ベイズ法による平滑化の試行」 (in Japanese). 46th Conference of the Japan Society of Traffic Engineers.\n(forthcoming) Uchida, M., & Nakazawa, J. Considerations on the semi-survey method using consumer expenditure survey data: observation noise and data preprocessing. 37th (2026) Annual Meeting, Pan-Pacific Association of Input-Output Studies (PAPAIOS).\n(forthcoming) Nakazawa, J., & Uchida, M. Survey design and practical challenges for compiling regional input–output tables in local governments. 37th (2026) Annual Meeting, PAPAIOS.\n\n\n\n2025\n\nUchida, M., & Takamori, S. Quantitative evaluation and typology of “population dam function” of urban employment areas in Japan by Markov chain. 71st Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Nakazawa, J. Study on the mechanism of cross-hauling in regional input–output tables. 36th (2025) Annual Meeting, PAPAIOS. PDF\nNakazawa, J., & Uchida, M. Study on the systematization of balancing methods for semi-survey methods. 36th (2025) Annual Meeting, PAPAIOS.\nUchida, M., & Takamori, S. Analysis of inter-regional population movement characteristics under population concentration in Tokyo, taking into account differences in exploratory behavior by population size. Annual Meeting of the Architectural Institute of Japan (2025), Summaries of Technical Papers. PDF\nUchida, M., & Takamori, S. 「観光産業の持続可能性評価に資する市区町村・産業別就業者数の将来推計手法の提案」 (in Japanese). 72nd Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\n\n\n\n2024\n\nUchida, M. Challenges and future development of non-survey methods. 35th (2024) Annual Meeting, PAPAIOS. PDF\nUchida, M., & Takamori, S. Bayesian estimation of future population by small area separating in-migration and out-migration. Annual Meeting of the Architectural Institute of Japan (2024), Summaries of Technical Papers. PDF\nUchida, M., Sugimoto, T., & Takamori, S. 「探索範囲を明示した介在機会モデルの提案と商圏分析への応用可能性」 (in Japanese). Proceedings of the Conference of the Japan Society of Traffic Engineers, 44, 590–596. CiNii\n\n\n\n2023\n\nUchida, M. Correlation analysis of inflows and outflows in prefectural input–output tables to improve the accuracy of non-survey methods. 34th (2023) Annual Meeting, PAPAIOS. PDF\nUchida, M., Sugimoto, T., Murakami, D., & Takayama, Y. Simultaneous estimation of inter-regional trade value of multiple industries by machine learning. 68th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Takamori, S. Improve the estimation accuracy of the radiation model using logistic regression analysis for migration. Annual Meeting of the Architectural Institute of Japan (2023), Summaries of Technical Papers. PDF\nUchida, M., & Kogure, Y. Estimation of future population by small area, considering sudden population changes by development, etc. Proceedings of the Kanto Branch Research Meeting, Architectural Institute of Japan (FY2022). PDF\nUchida, M., Sugimoto, T., & Takamori, S. Improvement of the accuracy of the estimation of input–output table by Commodity Balance method based on cross-hauling estimation. Annual Meeting of the Applied Regional Science Conference. PDF\n\n\n\n2022\n\nUchida, M., Sugimoto, T., & Takamori, S. Estimation flow using the LQ method suitable for estimating regional input–output tables for Japan. 66th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Takamori, S. Accuracy verification of parameter-free and doubly constrained human mobility models. Annual Meeting of the Architectural Institute of Japan (2022), Summaries of Technical Papers. PDF\nTakamori, S., Sugimoto, T., & Uchida, M. 「居住地選択時の重要要素に関する意向調査と一考察」 (in Japanese). Annual Meeting of the Japan Society of Civil Engineers (2022). PDF\n\n\n\n2021\n\nUchida, M., Sugimoto, T., & Takamori, S. A proposal for an improved method of estimating social dynamics of small areas and its application to municipalities of Japan based on the census. 30th Annual Conference of the GIS Association of Japan. PDF"
   },
   {
-    "objectID": "publications.html#discussant",
-    "href": "publications.html#discussant",
-    "title": "Publications",
-    "section": "Discussant",
-    "text": "Discussant\n\n34th (2023) and 35th (2024) Annual Meetings, PAPAIOS\n(forthcoming) 37th (2026) Annual Meeting, PAPAIOS"
-  },
-  {
     "objectID": "publications.html#awards",
     "href": "publications.html#awards",
     "title": "Publications",
@@ -81,7 +74,7 @@
     "href": "index.html",
     "title": "Uchida Mizuki",
     "section": "",
-    "text": "Researcher · R package developer  /  Regional economics & input–output analysis\nI work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.\nPublications →"
+    "text": "Researcher · R package developer  /  Regional economics & input–output analysis\nI work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.\nResearch  ·  Software  ·  Publications  ·  Contact"
   },
   {
     "objectID": "research.html",

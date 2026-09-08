@@ -32,4 +32,4 @@ comments: false
 
 I work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.
 
-[Publications &rarr;](publications.qmd)
+[Research](research.qmd) &nbsp;·&nbsp; [Software](software.qmd) &nbsp;·&nbsp; [Publications](publications.qmd) &nbsp;·&nbsp; [Contact](contact.qmd)
