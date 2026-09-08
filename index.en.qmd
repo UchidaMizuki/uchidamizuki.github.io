@@ -1,5 +1,5 @@
 ---
-title: "Uchida Mizuki"
+title: "UchidaMizuki"
 description-meta: "Uchida Mizuki (内田瑞生), Yachiyo Engineering Co., Ltd. — researcher and R package developer in regional economics and input–output analysis."
 about:
   template: jolla

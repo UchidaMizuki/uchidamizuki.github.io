@@ -6,7 +6,7 @@ project:
     - .nojekyll
 
 website:
-  title: "Uchida Mizuki"
+  title: "UchidaMizuki"
   site-url: "https://uchidamizuki.com"
   favicon: logo.png
   open-graph: true
@@ -31,7 +31,7 @@ website:
         href: https://social.vivaldi.net/@UchidaMizuki
   page-footer:
     border: false
-    center: "&copy; 2026 Uchida Mizuki"
+    center: "&copy; 2026 UchidaMizuki"
 
 format:
   html:
@@ -51,5 +51,5 @@ babelquarto:
   mainlanguage: "ja"
   languages: ["en"]
   languagelinks: navbar
-title-en: "Uchida Mizuki"
+title-en: "UchidaMizuki"
 lang: ja
