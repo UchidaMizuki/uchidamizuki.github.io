@@ -18,6 +18,10 @@ comments: false
 
 - **Uchida, M.** (2026). Validation of the formulation of location quotient methods using regression analysis. *Journal of Economic Structures*, **15**(1), Article 7. [DOI: 10.1186/s40008-026-00373-w](https://doi.org/10.1186/s40008-026-00373-w) · [PDF](https://www.yachiyo-eng.co.jp/papers/2026_591_uchida.pdf)
 
+### 2024
+
+- **内田瑞生**・杉本達哉・高森秀司「探索範囲を明示した介在機会モデルの提案と商圏分析への応用可能性」*交通工学研究発表会論文集*（査読付き）, **44**, 590–596. [DOI: 10.14954/jsteproceeding.44.0_590](https://doi.org/10.14954/jsteproceeding.44.0_590)
+
 ### 2023
 
 - 堤洋樹・**内田瑞生**・山本大・高口洋人「旅行費用法に基づく既存公共施設の費用便益分析手法の提案」*日本建築学会計画系論文集*, **88**(806), 1371–1377. [DOI: 10.3130/aija.88.1371](https://doi.org/10.3130/aija.88.1371)
@@ -42,7 +46,6 @@ comments: false
 
 - **内田瑞生**「ノン・サーベイ法の課題と今後の展開」環太平洋産業連関分析学会 第35回（2024年度）全国大会. [PDF](https://www.yachiyo-eng.co.jp/papers/2024_467_uchida.pdf)
 - **内田瑞生**・高森秀司「ベイズ推定による転出入を分離した小地域別将来人口推計の試行」日本建築学会大会（2024年）学術講演梗概集. [PDF](https://www.yachiyo-eng.co.jp/papers/2024_450_uchida.pdf)
-- **内田瑞生**・杉本達哉・高森秀司「探索範囲を明示した介在機会モデルの提案と商圏分析への応用可能性」交通工学研究発表会論文集, **44**, 590–596. [CiNii](https://cir.nii.ac.jp/crid/1390020209538642944)
 
 ### 2023
 
