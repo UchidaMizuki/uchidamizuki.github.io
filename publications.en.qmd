@@ -15,6 +15,7 @@ by their Japanese title, marked *(in Japanese)*.
 ## Peer-reviewed articles
 
 - **Uchida, M.** (2026). Validation of the formulation of location quotient methods using regression analysis. *Journal of Economic Structures*, **15**(1), Article 7. [DOI: 10.1186/s40008-026-00373-w](https://doi.org/10.1186/s40008-026-00373-w) · [PDF](https://www.yachiyo-eng.co.jp/papers/2026_591_uchida.pdf)
+- Tsutsumi, H., **Uchida, M.**, Yamamoto, D., & Takaguchi, H. (2023). Cost-benefit evaluation based on the travel cost method for public facilities in Kounosu City. *Journal of Architecture and Planning (Transactions of AIJ)*, **88**(806), 1371–1377. [DOI: 10.3130/aija.88.1371](https://doi.org/10.3130/aija.88.1371)
 
 ## Conference presentations
 
@@ -55,6 +56,13 @@ by their Japanese title, marked *(in Japanese)*.
 ### 2021
 
 - **Uchida, M.**, Sugimoto, T., & Takamori, S. A proposal for an improved method of estimating social dynamics of small areas and its application to municipalities of Japan based on the census. 30th Annual Conference of the GIS Association of Japan. [PDF](https://www.yachiyo-eng.co.jp/papers/2022_185_uchida.pdf)
+
+### 2018–2020 (Waseda University, Takaguchi Lab)
+
+Ten conference presentations on public-facility relocation and cost–benefit
+evaluation, urban environmental load, and multi-agent evaluation of forest
+age-class structure — all in Japanese. See the [Japanese page](publications.qmd)
+for the full list.
 
 ## Awards
 
