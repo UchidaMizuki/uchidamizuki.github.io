@@ -14,14 +14,10 @@ website:
   navbar:
     pinned: true
     left:
-      - text: Research
-        href: research.qmd
-      - text: Software
-        href: software.qmd
       - text: Publications
         href: publications.qmd
-      - text: Contact
-        href: contact.qmd
+      - text: Software
+        href: software.qmd
     right:
       - icon: github
         aria-label: GitHub

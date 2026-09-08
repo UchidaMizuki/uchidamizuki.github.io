@@ -35,11 +35,18 @@
     "text": "Beyond R\n\ntraffic-jste (Typst) — unofficial template for Japan Society of Traffic Engineers (JSTE) manuscripts\nTrafficAssign.jl (Julia) — traffic assignment"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Uchida Mizuki",
+    "section": "",
+    "text": "内田瑞生  ｜  Research Institute for Infrastructure Paradigm Shift, Yachiyo Engineering Co., Ltd.\nResearcher · R package developer  /  Regional economics & input–output analysis\nI work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.\nPublications  ·  Software"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Uchida Mizuki · ORCID: 0009-0003-6534-6942\nBold marks the author. Presentations without an official English title are given by their Japanese title, marked (in Japanese)."
+    "text": "Uchida Mizuki · ORCID: 0009-0003-6534-6942\nI study how well regional economies can be measured from limited statistics as Japan’s population declines — testing where the figures used in practice (economic ripple effects, population and employment projections) are statistically reliable, and releasing the methods as papers and R packages.\nBold marks the author. Presentations without an official English title are given by their Japanese title, marked (in Japanese)."
   },
   {
     "objectID": "publications.html#peer-reviewed-articles",
@@ -61,47 +68,5 @@
     "title": "Publications",
     "section": "Awards",
     "text": "Awards\n\nExcellence Award, 18th MAS Competition (2018)"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Reach me at contact@uchidamizuki.com.\nFor bugs or feature requests in the R packages, please use GitHub Issues on the relevant repository."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Uchida Mizuki",
-    "section": "",
-    "text": "内田瑞生  ｜  Research Institute for Infrastructure Paradigm Shift, Yachiyo Engineering Co., Ltd.\nResearcher · R package developer  /  Regional economics & input–output analysis\nI work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.\nResearch  ·  Software  ·  Publications  ·  Contact"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "I study how well regional economies can be measured from limited statistics as Japan’s population declines. For the figures used in practice — economic ripple effects, population and employment projections — I test statistically where they are reliable and where they are not, and release the methods as papers and R packages."
-  },
-  {
-    "objectID": "research.html#estimating-regional-inputoutput-tables",
-    "href": "research.html#estimating-regional-inputoutput-tables",
-    "title": "Research",
-    "section": "Estimating regional input–output tables",
-    "text": "Estimating regional input–output tables\nMunicipal input–output tables can only be estimated from limited statistics. I validate the formulations of non-survey methods (LQ, CB) with regression analysis, and — jointly with Junji Nakazawa (Kochi University) — work on systematizing the balancing step of semi-survey methods that add partial field surveys."
-  },
-  {
-    "objectID": "research.html#modeling-interregional-trade-and-migration",
-    "href": "research.html#modeling-interregional-trade-and-migration",
-    "title": "Research",
-    "section": "Modeling interregional trade and migration",
-    "text": "Modeling interregional trade and migration\nI estimate interregional trade flows and migration with gravity, radiation, and machine-learning models, and smooth observation-noisy data with empirical Bayes methods."
-  },
-  {
-    "objectID": "research.html#supply-constraints-and-regional-sustainability",
-    "href": "research.html#supply-constraints-and-regional-sustainability",
-    "title": "Research",
-    "section": "Supply constraints and regional sustainability",
-    "text": "Supply constraints and regional sustainability\nI work on the effects of supply-side constraints — from disasters or labor shortages — on regional economies, and on projecting industry-level employment (including tourism), toward assessing regional sustainability."
   }
 ]

@@ -9,8 +9,13 @@ comments: false
 
 Uchida Mizuki · ORCID: [0009-0003-6534-6942](https://orcid.org/0009-0003-6534-6942)
 
-Bold marks the author. Presentations without an official English title are given
-by their Japanese title, marked *(in Japanese)*.
+I study how well regional economies can be measured from limited statistics as Japan's population declines — testing where the figures used in practice (economic ripple effects, population and employment projections) are statistically reliable, and releasing the methods as papers and [R packages](software.qmd).
+
+- **Estimating regional input–output tables** — validating the formulations of non-survey methods (LQ, CB) with regression analysis; systematizing the balancing step of semi-survey methods (jointly with Junji Nakazawa, Kochi University)
+- **Modeling interregional trade and migration** — gravity, radiation, and machine-learning models; empirical-Bayes smoothing of observation-noisy data
+- **Supply constraints and regional sustainability** — effects of supply-side constraints from disasters or labor shortages; projecting industry-level employment, including tourism
+
+Bold marks the author. Presentations without an official English title are given by their Japanese title, marked *(in Japanese)*.
 
 ## Peer-reviewed articles
 

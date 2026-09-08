@@ -36,4 +36,4 @@ comments: false
 
 地域の持続可能性の向上を目指した研究を行っています。あわせて、データ分析の再現性向上・効率化のためのオープンソースパッケージを開発しています。
 
-[研究](research.qmd) &nbsp;·&nbsp; [ソフトウェア](software.qmd) &nbsp;·&nbsp; [論文・発表](publications.qmd) &nbsp;·&nbsp; [連絡先](contact.qmd)
+[論文・発表](publications.qmd) &nbsp;·&nbsp; [ソフトウェア](software.qmd)
