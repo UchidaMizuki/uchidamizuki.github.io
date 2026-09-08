@@ -7,25 +7,25 @@
     "text": "I develop R packages. Source is on GitHub; most are on CRAN and r-universe."
   },
   {
-    "objectID": "software.html#inputoutput-analysis",
-    "href": "software.html#inputoutput-analysis",
-    "title": "Software",
-    "section": "Input–output analysis",
-    "text": "Input–output analysis\n\neconio — input–output analysis\neconiodatajp — ready-to-use Japanese input–output tables\neconioread — read input–output tables\neconagent — utility functions and composite goods in economics\nndgras — the nD-GRAS method (a multidimensional extension of RAS)"
-  },
-  {
     "objectID": "software.html#japanese-official-statistics-geospatial-data",
     "href": "software.html#japanese-official-statistics-geospatial-data",
     "title": "Software",
     "section": "Japanese official statistics & geospatial data",
-    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpcity — read and convert Japanese municipality codes\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpmap — Japan maps with insets for Okinawa and Ogasawara"
+    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpcity — read and convert Japanese municipality codes\njpmap — Japan maps with insets for Okinawa and Ogasawara"
   },
   {
     "objectID": "software.html#data-structures-tooling",
     "href": "software.html#data-structures-tooling",
     "title": "Software",
     "section": "Data structures & tooling",
-    "text": "Data structures & tooling\n\ndibble — dimensional data frames\ntimbr — forest / tree data frames\nstickyr — data frames with persistent columns and attributes\nadverbial — enhanced partialised and composed functions\nnavigatr — navigation menu for pipe-friendly data processing\ntarchives — make your targets pipelines into a package"
+    "text": "Data structures & tooling\n\ntimbr — forest / tree data frames\ndibble — dimensional data frames\nnavigatr — navigation menu for pipe-friendly data processing\ntarchives — make your targets pipelines into a package\nadverbial — enhanced partialised and composed functions\nstickyr — data frames with persistent columns and attributes"
+  },
+  {
+    "objectID": "software.html#economics",
+    "href": "software.html#economics",
+    "title": "Software",
+    "section": "Economics",
+    "text": "Economics\n\neconagent — utility functions and composite goods in economics\neconio — input–output analysis\neconiodatajp — ready-to-use Japanese input–output tables\nndgras — the nD-GRAS method (a multidimensional extension of RAS)\neconioread — read input–output tables"
   },
   {
     "objectID": "index.html",

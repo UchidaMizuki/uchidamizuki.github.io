@@ -7,25 +7,25 @@
     "text": "R パッケージを開発しています。ソースは GitHub、多くは CRAN と r-universe から利用できます。"
   },
   {
-    "objectID": "software.html#産業連関分析",
-    "href": "software.html#産業連関分析",
-    "title": "ソフトウェア",
-    "section": "産業連関分析",
-    "text": "産業連関分析\n\neconio — 産業連関分析\neconiodatajp — すぐ使える日本の産業連関表データ\neconioread — 産業連関表の読み込み\neconagent — 経済学における効用関数・複合財\nndgras — nD-GRAS 法（RAS 法の多次元拡張）"
-  },
-  {
     "objectID": "software.html#政府統計地理データ",
     "href": "software.html#政府統計地理データ",
     "title": "ソフトウェア",
     "section": "政府統計・地理データ",
-    "text": "政府統計・地理データ\n\njpstat — e-Stat API から政府統計を取得\njpcity — 市区町村コードの読み取りと変換\njpgrid — 地域メッシュコード（JIS X 0410）の操作\njpmap — 沖縄・小笠原を配置した日本地図"
+    "text": "政府統計・地理データ\n\njpstat — e-Stat API から政府統計を取得\njpgrid — 地域メッシュコード（JIS X 0410）の操作\njpcity — 市区町村コードの読み取りと変換\njpmap — 沖縄・小笠原を配置した日本地図"
   },
   {
     "objectID": "software.html#データ構造ツール",
     "href": "software.html#データ構造ツール",
     "title": "ソフトウェア",
     "section": "データ構造・ツール",
-    "text": "データ構造・ツール\n\ndibble — 次元付きデータフレーム\ntimbr — 木・森構造のデータフレーム\nstickyr — 属性が保持されるデータフレーム\nadverbial — 部分適用・合成の関数ツール\nnavigatr — パイプ処理向けのナビゲーションメニュー\ntarchives — targets パイプラインのパッケージ化"
+    "text": "データ構造・ツール\n\ntimbr — 木・森構造のデータフレーム\ndibble — 次元付きデータフレーム\nnavigatr — パイプ処理向けのナビゲーションメニュー\ntarchives — targets パイプラインのパッケージ化\nadverbial — 部分適用・合成の関数ツール\nstickyr — 属性が保持されるデータフレーム"
+  },
+  {
+    "objectID": "software.html#経済分析",
+    "href": "software.html#経済分析",
+    "title": "ソフトウェア",
+    "section": "経済分析",
+    "text": "経済分析\n\neconagent — 経済学における効用関数・複合財\neconio — 産業連関分析\neconiodatajp — すぐ使える日本の産業連関表データ\nndgras — nD-GRAS 法（RAS 法の多次元拡張）\neconioread — 産業連関表の読み込み"
   },
   {
     "objectID": "index.html",
