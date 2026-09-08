@@ -1,0 +1,31 @@
+---
+title: "Software"
+subtitle: "ソフトウェア"
+description-meta: "R packages by Uchida Mizuki — Japanese official statistics, geospatial data, data structures, and input–output analysis."
+lang: en
+comments: false
+---
+
+I build R packages to make data analysis more reproducible and efficient. Source is on [GitHub](https://github.com/UchidaMizuki); most are on [CRAN](https://cran.r-project.org/), and all are listed on [r-universe](https://uchidamizuki.r-universe.dev).
+
+## Japanese official statistics & geospatial data
+
+- [**jpstat**](https://cran.r-project.org/package=jpstat) — tools for easy use of the e-Stat API
+- [**jpcity**](https://cran.r-project.org/package=jpcity) — read and convert Japanese municipality codes
+- [**jpgrid**](https://cran.r-project.org/package=jpgrid) — functions for the Grid Square Codes (JIS X 0410)
+- [**jpmap**](https://cran.r-project.org/package=jpmap) — Japan maps with insets for Okinawa and Ogasawara
+- [**mojxmlr**](https://github.com/UchidaMizuki/mojxmlr) — download and read MOJ cadastral map XML
+
+## Data structures & tooling
+
+- [**dibble**](https://cran.r-project.org/package=dibble) — dimensional data frames
+- [**timbr**](https://cran.r-project.org/package=timbr) — forest / tree data frames
+- [**stickyr**](https://cran.r-project.org/package=stickyr) — data frames with persistent columns and attributes
+- [**adverbial**](https://cran.r-project.org/package=adverbial) — enhanced partialised and composed functions
+- [**navigatr**](https://cran.r-project.org/package=navigatr) — navigation menu for pipe-friendly data processing
+- [**tarchives**](https://cran.r-project.org/package=tarchives) — make your `targets` pipelines into a package
+
+## Input–output analysis
+
+- [**econio**](https://github.com/UchidaMizuki/econio) — input–output analysis
+- [**econiodatajp**](https://github.com/UchidaMizuki/econiodatajp) — ready-to-use Japanese input–output tables

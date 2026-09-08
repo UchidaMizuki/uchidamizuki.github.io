@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "I build R packages to make data analysis more reproducible and efficient. Source is on GitHub; most are on CRAN, and all are listed on r-universe."
+  },
+  {
+    "objectID": "software.html#japanese-official-statistics-geospatial-data",
+    "href": "software.html#japanese-official-statistics-geospatial-data",
+    "title": "Software",
+    "section": "Japanese official statistics & geospatial data",
+    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpcity — read and convert Japanese municipality codes\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpmap — Japan maps with insets for Okinawa and Ogasawara\nmojxmlr — download and read MOJ cadastral map XML"
+  },
+  {
+    "objectID": "software.html#data-structures-tooling",
+    "href": "software.html#data-structures-tooling",
+    "title": "Software",
+    "section": "Data structures & tooling",
+    "text": "Data structures & tooling\n\ndibble — dimensional data frames\ntimbr — forest / tree data frames\nstickyr — data frames with persistent columns and attributes\nadverbial — enhanced partialised and composed functions\nnavigatr — navigation menu for pipe-friendly data processing\ntarchives — make your targets pipelines into a package"
+  },
+  {
+    "objectID": "software.html#inputoutput-analysis",
+    "href": "software.html#inputoutput-analysis",
+    "title": "Software",
+    "section": "Input–output analysis",
+    "text": "Input–output analysis\n\neconio — input–output analysis\neconiodatajp — ready-to-use Japanese input–output tables"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Uchida Mizuki · ORCID: 0009-0003-6534-6942\nBold marks the author. Presentations without an official English title are given by their Japanese title, marked (in Japanese)."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\nUchida, M. (2026). Validation of the formulation of location quotient methods using regression analysis. Journal of Economic Structures, 15(1), Article 7. DOI: 10.1186/s40008-026-00373-w · PDF"
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference presentations",
+    "text": "Conference presentations\n\n2026\n\nUchida, M., & Takamori, S. 「観測ノイズを含む産業別地域間交易データの経験ベイズ法による平滑化の試行」 (in Japanese). 46th Conference of the Japan Society of Traffic Engineers.\n(forthcoming) Uchida, M., & Nakazawa, J. Considerations on the semi-survey method using consumer expenditure survey data: observation noise and data preprocessing. 37th (2026) Annual Meeting, Pan-Pacific Association of Input-Output Studies (PAPAIOS).\n(forthcoming) Nakazawa, J., & Uchida, M. Survey design and practical challenges for compiling regional input–output tables in local governments. 37th (2026) Annual Meeting, PAPAIOS.\n\n\n\n2025\n\nUchida, M., & Takamori, S. Quantitative evaluation and typology of “population dam function” of urban employment areas in Japan by Markov chain. 71st Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Nakazawa, J. Study on the mechanism of cross-hauling in regional input–output tables. 36th (2025) Annual Meeting, PAPAIOS. PDF\nNakazawa, J., & Uchida, M. Study on the systematization of balancing methods for semi-survey methods. 36th (2025) Annual Meeting, PAPAIOS.\nUchida, M., & Takamori, S. Analysis of inter-regional population movement characteristics under population concentration in Tokyo, taking into account differences in exploratory behavior by population size. Annual Meeting of the Architectural Institute of Japan (2025), Summaries of Technical Papers. PDF\nUchida, M., & Takamori, S. 「観光産業の持続可能性評価に資する市区町村・産業別就業者数の将来推計手法の提案」 (in Japanese). 72nd Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\n\n\n\n2024\n\nUchida, M. Challenges and future development of non-survey methods. 35th (2024) Annual Meeting, PAPAIOS. PDF\nUchida, M., & Takamori, S. Bayesian estimation of future population by small area separating in-migration and out-migration. Annual Meeting of the Architectural Institute of Japan (2024), Summaries of Technical Papers. PDF\nUchida, M., Sugimoto, T., & Takamori, S. 「探索範囲を明示した介在機会モデルの提案と商圏分析への応用可能性」 (in Japanese). Proceedings of the Conference of the Japan Society of Traffic Engineers, 44, 590–596. CiNii\n\n\n\n2023\n\nUchida, M. Correlation analysis of inflows and outflows in prefectural input–output tables to improve the accuracy of non-survey methods. 34th (2023) Annual Meeting, PAPAIOS. PDF\nUchida, M., Sugimoto, T., Murakami, D., & Takayama, Y. Simultaneous estimation of inter-regional trade value of multiple industries by machine learning. 68th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Takamori, S. Improve the estimation accuracy of the radiation model using logistic regression analysis for migration. Annual Meeting of the Architectural Institute of Japan (2023), Summaries of Technical Papers. PDF\nUchida, M., & Kogure, Y. Estimation of future population by small area, considering sudden population changes by development, etc. Proceedings of the Kanto Branch Research Meeting, Architectural Institute of Japan (FY2022). PDF\nUchida, M., Sugimoto, T., & Takamori, S. Improvement of the accuracy of the estimation of input–output table by Commodity Balance method based on cross-hauling estimation. Annual Meeting of the Applied Regional Science Conference. PDF\n\n\n\n2022\n\nUchida, M., Sugimoto, T., & Takamori, S. Estimation flow using the LQ method suitable for estimating regional input–output tables for Japan. 66th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Takamori, S. Accuracy verification of parameter-free and doubly constrained human mobility models. Annual Meeting of the Architectural Institute of Japan (2022), Summaries of Technical Papers. PDF\nTakamori, S., Sugimoto, T., & Uchida, M. 「居住地選択時の重要要素に関する意向調査と一考察」 (in Japanese). Annual Meeting of the Japan Society of Civil Engineers (2022). PDF\n\n\n\n2021\n\nUchida, M., Sugimoto, T., & Takamori, S. A proposal for an improved method of estimating social dynamics of small areas and its application to municipalities of Japan based on the census. 30th Annual Conference of the GIS Association of Japan. PDF"
+  },
+  {
+    "objectID": "publications.html#discussant",
+    "href": "publications.html#discussant",
+    "title": "Publications",
+    "section": "Discussant",
+    "text": "Discussant\n\n34th (2023) and 35th (2024) Annual Meetings, PAPAIOS\n(forthcoming) 37th (2026) Annual Meeting, PAPAIOS"
+  },
+  {
+    "objectID": "publications.html#awards",
+    "href": "publications.html#awards",
+    "title": "Publications",
+    "section": "Awards",
+    "text": "Awards\n\nExcellence Award, 18th MAS Competition (2018)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Reach me at contact@uchidamizuki.com."
+  },
+  {
+    "objectID": "contact.html#available-for",
+    "href": "contact.html#available-for",
+    "title": "Contact",
+    "section": "Available for",
+    "text": "Available for\n\nTalks and seminars\nTraining (input–output analysis, regional economic analysis, R and statistics)\nWriting for professional and practitioner journals\nCommittee and advisory roles\n\nUseful topics: compiling and using regional input–output tables, common pitfalls in economic ripple-effect analysis, population and employment projection, and statistical methods for evidence-based policy.\nFor bugs or feature requests in the R packages, please use GitHub Issues on the relevant repository."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Uchida Mizuki",
+    "section": "",
+    "text": "Researcher · R package developer  /  Regional economics & input–output analysis\nI work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.\nPublications →"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study how well regional economies can be measured from limited statistics as Japan’s population declines. For the figures used in practice — economic ripple effects, population and employment projections — I test statistically where they are reliable and where they are not, and release the methods as papers and R packages."
+  },
+  {
+    "objectID": "research.html#estimating-regional-inputoutput-tables",
+    "href": "research.html#estimating-regional-inputoutput-tables",
+    "title": "Research",
+    "section": "Estimating regional input–output tables",
+    "text": "Estimating regional input–output tables\nMunicipal input–output tables can only be estimated from limited statistics. I validate the formulations of non-survey methods (LQ, CB) with regression analysis, and — jointly with Junji Nakazawa (Kochi University) — work on systematizing the balancing step of semi-survey methods that add partial field surveys."
+  },
+  {
+    "objectID": "research.html#modeling-interregional-trade-and-migration",
+    "href": "research.html#modeling-interregional-trade-and-migration",
+    "title": "Research",
+    "section": "Modeling interregional trade and migration",
+    "text": "Modeling interregional trade and migration\nI estimate interregional trade flows and migration with gravity, radiation, and machine-learning models, and smooth observation-noisy data with empirical Bayes methods."
+  },
+  {
+    "objectID": "research.html#supply-constraints-and-regional-sustainability",
+    "href": "research.html#supply-constraints-and-regional-sustainability",
+    "title": "Research",
+    "section": "Supply constraints and regional sustainability",
+    "text": "Supply constraints and regional sustainability\nI work on the effects of supply-side constraints — from disasters or labor shortages — on regional economies, and on projecting industry-level employment (including tourism), toward assessing regional sustainability."
+  }
+]

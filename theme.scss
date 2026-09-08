@@ -1,0 +1,66 @@
+/*-- scss:defaults --*/
+
+// Readable, well-hinted sans that covers Japanese and Latin consistently.
+$web-font-path: "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap";
+$font-family-sans-serif: "Noto Sans JP", "Helvetica Neue", "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, Arial, sans-serif;
+
+$font-size-root: 17px;
+$line-height-base: 1.75;
+$headings-font-weight: 700;
+
+/*-- scss:rules --*/
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+// Language switcher: babelquarto renders it as a btn-primary, and the simplex
+// theme adds a gradient + border on top. Strip all of it so it reads as a plain
+// navbar item.
+.navbar .babelquarto-languages-button.btn,
+.navbar .babelquarto-languages-button.btn:hover,
+.navbar .babelquarto-languages-button.btn:focus,
+.navbar .babelquarto-languages-button.btn:active,
+.navbar .babelquarto-languages-button.btn.show {
+  background: transparent;
+  background-image: none;
+  border: 0;
+  box-shadow: none;
+  padding: 0.4rem 0.5rem;
+  font-size: inherit;
+  font-weight: 400;
+  color: var(--bs-navbar-color, rgba(0, 0, 0, 0.55));
+}
+
+.navbar .babelquarto-languages-button.btn:hover,
+.navbar .babelquarto-languages-button.btn:focus,
+.navbar .babelquarto-languages-button.btn.show {
+  color: var(--bs-navbar-hover-color, rgba(0, 0, 0, 0.8));
+}
+
+// Landing: comfortable measure for the intro text, room around the CTA.
+.quarto-about-jolla {
+  padding-top: 2rem;
+
+  .about-contents {
+    max-width: 34rem;
+    margin-inline: auto;
+  }
+
+  .about-contents > p:last-child {
+    margin-top: 1.5rem;
+    font-size: 1.05rem;
+  }
+}
+
+// Publications: a little more air between entries and before each year.
+#quarto-content main.content {
+  li + li {
+    margin-top: 0.35rem;
+  }
+  h3 {
+    margin-top: 2rem;
+  }
+}

@@ -1,0 +1,35 @@
+---
+title: "Uchida Mizuki"
+description-meta: "Uchida Mizuki — researcher and R package developer in regional economics and input–output analysis."
+about:
+  template: jolla
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/UchidaMizuki
+    - icon: journal-text
+      text: Blog
+      href: https://uchidamizuki.com/blog
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0009-0003-6534-6942
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/uchidamizuki/
+    - icon: mastodon
+      text: Mastodon
+      href: https://social.vivaldi.net/@UchidaMizuki
+    - icon: envelope
+      text: Email
+      href: "mailto:contact@uchidamizuki.com"
+toc: false
+comments: false
+---
+
+**Researcher · R package developer &nbsp;/&nbsp; Regional economics & input–output analysis**
+
+I work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.
+
+[Publications &rarr;](publications.qmd)

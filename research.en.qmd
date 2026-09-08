@@ -1,0 +1,21 @@
+---
+title: "Research"
+subtitle: "研究"
+description-meta: "Uchida Mizuki's research — regional input–output table estimation, modeling of interregional trade and migration, supply constraints and regional sustainability."
+lang: en
+comments: false
+---
+
+I study how well regional economies can be measured from limited statistics as Japan's population declines. For the figures used in practice — economic ripple effects, population and employment projections — I test statistically where they are reliable and where they are not, and release the methods as [papers](publications.qmd) and [R packages](software.qmd).
+
+## Estimating regional input–output tables
+
+Municipal input–output tables can only be estimated from limited statistics. I validate the formulations of non-survey methods (LQ, CB) with regression analysis, and — jointly with Junji Nakazawa (Kochi University) — work on systematizing the balancing step of semi-survey methods that add partial field surveys.
+
+## Modeling interregional trade and migration
+
+I estimate interregional trade flows and migration with gravity, radiation, and machine-learning models, and smooth observation-noisy data with empirical Bayes methods.
+
+## Supply constraints and regional sustainability
+
+I work on the effects of supply-side constraints — from disasters or labor shortages — on regional economies, and on projecting industry-level employment (including tourism), toward assessing regional sustainability.

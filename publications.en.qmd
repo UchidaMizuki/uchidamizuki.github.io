@@ -1,0 +1,66 @@
+---
+title: "Publications"
+subtitle: "論文・発表"
+toc: true
+toc-depth: 2
+lang: en
+comments: false
+---
+
+Uchida Mizuki · ORCID: [0009-0003-6534-6942](https://orcid.org/0009-0003-6534-6942)
+
+Bold marks the author. Presentations without an official English title are given
+by their Japanese title, marked *(in Japanese)*.
+
+## Peer-reviewed articles
+
+- **Uchida, M.** (2026). Validation of the formulation of location quotient methods using regression analysis. *Journal of Economic Structures*, **15**(1), Article 7. [DOI: 10.1186/s40008-026-00373-w](https://doi.org/10.1186/s40008-026-00373-w) · [PDF](https://www.yachiyo-eng.co.jp/papers/2026_591_uchida.pdf)
+
+## Conference presentations
+
+### 2026
+
+- **Uchida, M.**, & Takamori, S. 「観測ノイズを含む産業別地域間交易データの経験ベイズ法による平滑化の試行」 *(in Japanese)*. 46th Conference of the Japan Society of Traffic Engineers.
+- *(forthcoming)* **Uchida, M.**, & Nakazawa, J. Considerations on the semi-survey method using consumer expenditure survey data: observation noise and data preprocessing. 37th (2026) Annual Meeting, Pan-Pacific Association of Input-Output Studies (PAPAIOS).
+- *(forthcoming)* Nakazawa, J., & **Uchida, M.** Survey design and practical challenges for compiling regional input–output tables in local governments. 37th (2026) Annual Meeting, PAPAIOS.
+
+### 2025
+
+- **Uchida, M.**, & Takamori, S. Quantitative evaluation and typology of "population dam function" of urban employment areas in Japan by Markov chain. 71st Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. [PDF](https://www.yachiyo-eng.co.jp/papers/2025_489_uchida.pdf)
+- **Uchida, M.**, & Nakazawa, J. Study on the mechanism of cross-hauling in regional input–output tables. 36th (2025) Annual Meeting, PAPAIOS. [PDF](https://www.yachiyo-eng.co.jp/papers/2025_567_uchida.pdf)
+- Nakazawa, J., & **Uchida, M.** Study on the systematization of balancing methods for semi-survey methods. 36th (2025) Annual Meeting, PAPAIOS.
+- **Uchida, M.**, & Takamori, S. Analysis of inter-regional population movement characteristics under population concentration in Tokyo, taking into account differences in exploratory behavior by population size. Annual Meeting of the Architectural Institute of Japan (2025), Summaries of Technical Papers. [PDF](https://www.yachiyo-eng.co.jp/papers/2025_535_uchida.pdf)
+- **Uchida, M.**, & Takamori, S. 「観光産業の持続可能性評価に資する市区町村・産業別就業者数の将来推計手法の提案」 *(in Japanese)*. 72nd Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. [PDF](https://www.yachiyo-eng.co.jp/papers/2025_568_uchida.pdf)
+
+### 2024
+
+- **Uchida, M.** Challenges and future development of non-survey methods. 35th (2024) Annual Meeting, PAPAIOS. [PDF](https://www.yachiyo-eng.co.jp/papers/2024_467_uchida.pdf)
+- **Uchida, M.**, & Takamori, S. Bayesian estimation of future population by small area separating in-migration and out-migration. Annual Meeting of the Architectural Institute of Japan (2024), Summaries of Technical Papers. [PDF](https://www.yachiyo-eng.co.jp/papers/2024_450_uchida.pdf)
+- **Uchida, M.**, Sugimoto, T., & Takamori, S. 「探索範囲を明示した介在機会モデルの提案と商圏分析への応用可能性」 *(in Japanese)*. *Proceedings of the Conference of the Japan Society of Traffic Engineers*, **44**, 590–596. [CiNii](https://cir.nii.ac.jp/crid/1390020209538642944)
+
+### 2023
+
+- **Uchida, M.** Correlation analysis of inflows and outflows in prefectural input–output tables to improve the accuracy of non-survey methods. 34th (2023) Annual Meeting, PAPAIOS. [PDF](https://www.yachiyo-eng.co.jp/papers/2023_359_uchida.pdf)
+- **Uchida, M.**, Sugimoto, T., Murakami, D., & Takayama, Y. Simultaneous estimation of inter-regional trade value of multiple industries by machine learning. 68th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. [PDF](https://www.yachiyo-eng.co.jp/papers/2024_454_uchida.pdf)
+- **Uchida, M.**, & Takamori, S. Improve the estimation accuracy of the radiation model using logistic regression analysis for migration. Annual Meeting of the Architectural Institute of Japan (2023), Summaries of Technical Papers. [PDF](https://www.yachiyo-eng.co.jp/papers/2023_345__uchida.pdf)
+- **Uchida, M.**, & Kogure, Y. Estimation of future population by small area, considering sudden population changes by development, etc. Proceedings of the Kanto Branch Research Meeting, Architectural Institute of Japan (FY2022). [PDF](https://www.yachiyo-eng.co.jp/papers/2023_293_uchida.pdf)
+- **Uchida, M.**, Sugimoto, T., & Takamori, S. Improvement of the accuracy of the estimation of input–output table by Commodity Balance method based on cross-hauling estimation. Annual Meeting of the Applied Regional Science Conference. [PDF](https://www.yachiyo-eng.co.jp/papers/c5c2687369068b84232bcdec9acf1558b103928d.pdf)
+
+### 2022
+
+- **Uchida, M.**, Sugimoto, T., & Takamori, S. Estimation flow using the LQ method suitable for estimating regional input–output tables for Japan. 66th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. [PDF](https://www.yachiyo-eng.co.jp/papers/2022_275_uchida.pdf)
+- **Uchida, M.**, & Takamori, S. Accuracy verification of parameter-free and doubly constrained human mobility models. Annual Meeting of the Architectural Institute of Japan (2022), Summaries of Technical Papers. [PDF](https://www.yachiyo-eng.co.jp/papers/2022_244_uchida.pdf)
+- Takamori, S., Sugimoto, T., & **Uchida, M.** 「居住地選択時の重要要素に関する意向調査と一考察」 *(in Japanese)*. Annual Meeting of the Japan Society of Civil Engineers (2022). [PDF](https://www.yachiyo-eng.co.jp/papers/2023_311_takamori.pdf)
+
+### 2021
+
+- **Uchida, M.**, Sugimoto, T., & Takamori, S. A proposal for an improved method of estimating social dynamics of small areas and its application to municipalities of Japan based on the census. 30th Annual Conference of the GIS Association of Japan. [PDF](https://www.yachiyo-eng.co.jp/papers/2022_185_uchida.pdf)
+
+## Discussant
+
+- 34th (2023) and 35th (2024) Annual Meetings, PAPAIOS
+- *(forthcoming)* 37th (2026) Annual Meeting, PAPAIOS
+
+## Awards
+
+- Excellence Award, 18th MAS Competition (2018)

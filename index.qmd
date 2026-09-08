@@ -1,0 +1,35 @@
+---
+title: "Uchida Mizuki"
+description-meta: "内田瑞生 — 地域経済・産業連関分析の研究者、Rパッケージ開発者。"
+about:
+  template: jolla
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/UchidaMizuki
+    - icon: journal-text
+      text: Blog
+      href: https://uchidamizuki.com/blog
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/0009-0003-6534-6942
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/uchidamizuki/
+    - icon: mastodon
+      text: Mastodon
+      href: https://social.vivaldi.net/@UchidaMizuki
+    - icon: envelope
+      text: Email
+      href: "mailto:contact@uchidamizuki.com"
+toc: false
+comments: false
+---
+
+**研究者・Rパッケージ開発者 &nbsp;/&nbsp; 地域経済・産業連関分析**
+
+地域の持続可能性の向上を目指した研究を行っています。あわせて、データ分析の再現性向上・効率化のためのオープンソースパッケージを開発しています。
+
+[論文・発表 &rarr;](publications.qmd)

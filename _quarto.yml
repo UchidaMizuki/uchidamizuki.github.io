@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+    - .nojekyll
+
+website:
+  title: "Uchida Mizuki"
+  site-url: "https://uchidamizuki.com"
+  favicon: logo.png
+  open-graph: true
+  search: false
+  navbar:
+    pinned: true
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Software
+        href: software.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/UchidaMizuki
+      - icon: mastodon
+        aria-label: Mastodon
+        href: https://social.vivaldi.net/@UchidaMizuki
+  page-footer:
+    border: false
+    center: "&copy; 2026 Uchida Mizuki"
+
+format:
+  html:
+    theme:
+      - simplex
+      - theme.scss
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+
+babelquarto:
+  languagecodes:
+    - name: en
+      text: "English"
+    - name: ja
+      text: "日本語"
+  mainlanguage: "ja"
+  languages: ["en"]
+  languagelinks: navbar
+title-en: "Uchida Mizuki"
+lang: ja
