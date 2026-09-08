@@ -8,13 +8,4 @@ comments: false
 
 ご連絡は [contact@uchidamizuki.com](mailto:contact@uchidamizuki.com) までお願いします。
 
-## お引き受けしていること
-
-- 講演・セミナーでの登壇
-- 研修講師（産業連関分析、地域経済分析、R・統計）
-- 専門誌・実務誌への執筆
-- 委員・アドバイザー
-
-地域産業連関表の作成と活用、経済波及効果分析で見落とされがちな点、人口・就業者数の推計、EBPM のための統計手法などのテーマでお役に立てます。
-
 R パッケージの不具合報告や機能要望は、各リポジトリの [GitHub Issues](https://github.com/UchidaMizuki) にお願いします。

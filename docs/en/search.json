@@ -4,28 +4,35 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "I build R packages to make data analysis more reproducible and efficient. Source is on GitHub; most are on CRAN, and all are listed on r-universe."
+    "text": "I build packages and tools to make data analysis more reproducible and efficient. Most are in R, with some Typst templates and Julia packages. Source is on GitHub; most of the R packages are on CRAN and r-universe."
   },
   {
-    "objectID": "software.html#japanese-official-statistics-geospatial-data",
-    "href": "software.html#japanese-official-statistics-geospatial-data",
+    "objectID": "software.html#inputoutput-analysis-r",
+    "href": "software.html#inputoutput-analysis-r",
     "title": "Software",
-    "section": "Japanese official statistics & geospatial data",
-    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpcity — read and convert Japanese municipality codes\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpmap — Japan maps with insets for Okinawa and Ogasawara"
+    "section": "Input–output analysis (R)",
+    "text": "Input–output analysis (R)\n\neconio — input–output analysis\neconiodatajp — ready-to-use Japanese input–output tables\neconioread — read input–output tables\neconagent — utility functions and composite goods in economics\nndgras — the nD-GRAS method (a multidimensional extension of RAS)"
   },
   {
-    "objectID": "software.html#data-structures-tooling",
-    "href": "software.html#data-structures-tooling",
+    "objectID": "software.html#japanese-official-statistics-geospatial-data-r",
+    "href": "software.html#japanese-official-statistics-geospatial-data-r",
     "title": "Software",
-    "section": "Data structures & tooling",
-    "text": "Data structures & tooling\n\ndibble — dimensional data frames\ntimbr — forest / tree data frames\nstickyr — data frames with persistent columns and attributes\nadverbial — enhanced partialised and composed functions\nnavigatr — navigation menu for pipe-friendly data processing\ntarchives — make your targets pipelines into a package"
+    "section": "Japanese official statistics & geospatial data (R)",
+    "text": "Japanese official statistics & geospatial data (R)\n\njpstat — tools for easy use of the e-Stat API\njpcity — read and convert Japanese municipality codes\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpmap — Japan maps with insets for Okinawa and Ogasawara"
   },
   {
-    "objectID": "software.html#inputoutput-analysis",
-    "href": "software.html#inputoutput-analysis",
+    "objectID": "software.html#data-structures-tooling-r",
+    "href": "software.html#data-structures-tooling-r",
     "title": "Software",
-    "section": "Input–output analysis",
-    "text": "Input–output analysis\n\neconio — input–output analysis\neconiodatajp — ready-to-use Japanese input–output tables"
+    "section": "Data structures & tooling (R)",
+    "text": "Data structures & tooling (R)\n\ndibble — dimensional data frames\ntimbr — forest / tree data frames\nstickyr — data frames with persistent columns and attributes\nadverbial — enhanced partialised and composed functions\nnavigatr — navigation menu for pipe-friendly data processing\ntarchives — make your targets pipelines into a package"
+  },
+  {
+    "objectID": "software.html#beyond-r",
+    "href": "software.html#beyond-r",
+    "title": "Software",
+    "section": "Beyond R",
+    "text": "Beyond R\n\ntraffic-jste (Typst) — unofficial template for Japan Society of Traffic Engineers (JSTE) manuscripts\nTrafficAssign.jl (Julia) — traffic assignment"
   },
   {
     "objectID": "publications.html",
@@ -46,7 +53,7 @@
     "href": "publications.html#conference-presentations",
     "title": "Publications",
     "section": "Conference presentations",
-    "text": "Conference presentations\n\n2026\n\nUchida, M., & Takamori, S. 「観測ノイズを含む産業別地域間交易データの経験ベイズ法による平滑化の試行」 (in Japanese). 46th Conference of the Japan Society of Traffic Engineers.\n(forthcoming) Uchida, M., & Nakazawa, J. Considerations on the semi-survey method using consumer expenditure survey data: observation noise and data preprocessing. 37th (2026) Annual Meeting, Pan-Pacific Association of Input-Output Studies (PAPAIOS).\n(forthcoming) Nakazawa, J., & Uchida, M. Survey design and practical challenges for compiling regional input–output tables in local governments. 37th (2026) Annual Meeting, PAPAIOS.\n\n\n\n2025\n\nUchida, M., & Takamori, S. Quantitative evaluation and typology of “population dam function” of urban employment areas in Japan by Markov chain. 71st Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Nakazawa, J. Study on the mechanism of cross-hauling in regional input–output tables. 36th (2025) Annual Meeting, PAPAIOS. PDF\nNakazawa, J., & Uchida, M. Study on the systematization of balancing methods for semi-survey methods. 36th (2025) Annual Meeting, PAPAIOS.\nUchida, M., & Takamori, S. Analysis of inter-regional population movement characteristics under population concentration in Tokyo, taking into account differences in exploratory behavior by population size. Annual Meeting of the Architectural Institute of Japan (2025), Summaries of Technical Papers. PDF\nUchida, M., & Takamori, S. 「観光産業の持続可能性評価に資する市区町村・産業別就業者数の将来推計手法の提案」 (in Japanese). 72nd Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\n\n\n\n2024\n\nUchida, M. Challenges and future development of non-survey methods. 35th (2024) Annual Meeting, PAPAIOS. PDF\nUchida, M., & Takamori, S. Bayesian estimation of future population by small area separating in-migration and out-migration. Annual Meeting of the Architectural Institute of Japan (2024), Summaries of Technical Papers. PDF\n\n\n\n2023\n\nUchida, M. Correlation analysis of inflows and outflows in prefectural input–output tables to improve the accuracy of non-survey methods. 34th (2023) Annual Meeting, PAPAIOS. PDF\nUchida, M., Sugimoto, T., Murakami, D., & Takayama, Y. Simultaneous estimation of inter-regional trade value of multiple industries by machine learning. 68th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Takamori, S. Improve the estimation accuracy of the radiation model using logistic regression analysis for migration. Annual Meeting of the Architectural Institute of Japan (2023), Summaries of Technical Papers. PDF\nUchida, M., & Kogure, Y. Estimation of future population by small area, considering sudden population changes by development, etc. Proceedings of the Kanto Branch Research Meeting, Architectural Institute of Japan (FY2022). PDF\nUchida, M., Sugimoto, T., & Takamori, S. Improvement of the accuracy of the estimation of input–output table by Commodity Balance method based on cross-hauling estimation. Annual Meeting of the Applied Regional Science Conference. PDF\n\n\n\n2022\n\nUchida, M., Sugimoto, T., & Takamori, S. Estimation flow using the LQ method suitable for estimating regional input–output tables for Japan. 66th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Takamori, S. Accuracy verification of parameter-free and doubly constrained human mobility models. Annual Meeting of the Architectural Institute of Japan (2022), Summaries of Technical Papers. PDF\nTakamori, S., Sugimoto, T., & Uchida, M. 「居住地選択時の重要要素に関する意向調査と一考察」 (in Japanese). Annual Meeting of the Japan Society of Civil Engineers (2022). PDF\n\n\n\n2021\n\nUchida, M., Sugimoto, T., & Takamori, S. A proposal for an improved method of estimating social dynamics of small areas and its application to municipalities of Japan based on the census. 30th Annual Conference of the GIS Association of Japan. PDF\n\n\n\n2018–2020 (Waseda University, Takaguchi Lab)\nTen conference presentations on public-facility relocation and cost–benefit evaluation, urban environmental load, and multi-agent evaluation of forest age-class structure — all in Japanese. See the Japanese page for the full list."
+    "text": "Conference presentations\n\n2026\n\nUchida, M., & Takamori, S. 「施策変数の違いに着目した現代ポートフォリオ理論に基づく地域産業構成の評価手法の比較検討」 (in Japanese). Annual Meeting of the Architectural Institute of Japan (2026), Summaries of Technical Papers, 401–402.\nUchida, M., & Takamori, S. 「観測ノイズを含む産業別地域間交易データの経験ベイズ法による平滑化の試行」 (in Japanese). 46th Conference of the Japan Society of Traffic Engineers.\n(forthcoming) Uchida, M., & Nakazawa, J. Considerations on the semi-survey method using consumer expenditure survey data: observation noise and data preprocessing. 37th (2026) Annual Meeting, Pan-Pacific Association of Input-Output Studies (PAPAIOS).\n(forthcoming) Nakazawa, J., & Uchida, M. Survey design and practical challenges for compiling regional input–output tables in local governments. 37th (2026) Annual Meeting, PAPAIOS.\n\n\n\n2025\n\nUchida, M., & Takamori, S. Quantitative evaluation and typology of “population dam function” of urban employment areas in Japan by Markov chain. 71st Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Nakazawa, J. Study on the mechanism of cross-hauling in regional input–output tables. 36th (2025) Annual Meeting, PAPAIOS. PDF\nNakazawa, J., & Uchida, M. Study on the systematization of balancing methods for semi-survey methods. 36th (2025) Annual Meeting, PAPAIOS.\nUchida, M., & Takamori, S. Analysis of inter-regional population movement characteristics under population concentration in Tokyo, taking into account differences in exploratory behavior by population size. Annual Meeting of the Architectural Institute of Japan (2025), Summaries of Technical Papers, 1213–1214. PDF\nUchida, M., & Takamori, S. 「観光産業の持続可能性評価に資する市区町村・産業別就業者数の将来推計手法の提案」 (in Japanese). 72nd Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\n\n\n\n2024\n\nUchida, M. Challenges and future development of non-survey methods. 35th (2024) Annual Meeting, PAPAIOS. PDF\nUchida, M., & Takamori, S. Bayesian estimation of future population by small area separating in-migration and out-migration. Annual Meeting of the Architectural Institute of Japan (2024), Summaries of Technical Papers, 797–798. PDF\n\n\n\n2023\n\nUchida, M. Correlation analysis of inflows and outflows in prefectural input–output tables to improve the accuracy of non-survey methods. 34th (2023) Annual Meeting, PAPAIOS. PDF\nUchida, M., Sugimoto, T., Murakami, D., & Takayama, Y. Simultaneous estimation of inter-regional trade value of multiple industries by machine learning. 68th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Takamori, S. Improve the estimation accuracy of the radiation model using logistic regression analysis for migration. Annual Meeting of the Architectural Institute of Japan (2023), Summaries of Technical Papers, 861–862. PDF\nUchida, M., & Kogure, Y. Estimation of future population by small area, considering sudden population changes by development, etc. Proceedings of the Kanto Branch Research Meeting, Architectural Institute of Japan, 93, 337–340 (2023). PDF\nUchida, M., Sugimoto, T., & Takamori, S. Improvement of the accuracy of the estimation of input–output table by Commodity Balance method based on cross-hauling estimation. Annual Meeting of the Applied Regional Science Conference. PDF\n\n\n\n2022\n\nUchida, M., Sugimoto, T., & Takamori, S. Estimation flow using the LQ method suitable for estimating regional input–output tables for Japan. 66th Conference of Infrastructure Planning and Management, Japan Society of Civil Engineers. PDF\nUchida, M., & Takamori, S. Accuracy verification of parameter-free and doubly constrained human mobility models. Annual Meeting of the Architectural Institute of Japan (2022), Summaries of Technical Papers, 219–220. PDF\nTakamori, S., Sugimoto, T., & Uchida, M. 「居住地選択時の重要要素に関する意向調査と一考察」 (in Japanese). Annual Meeting of the Japan Society of Civil Engineers (2022). PDF\n\n\n\n2021\n\nUchida, M., Sugimoto, T., & Takamori, S. A proposal for an improved method of estimating social dynamics of small areas and its application to municipalities of Japan based on the census. 30th Annual Conference of the GIS Association of Japan. PDF\n\n\n\n2018–2020 (Waseda University, Takaguchi Lab)\nTen conference presentations on public-facility relocation and cost–benefit evaluation, urban environmental load, and multi-agent evaluation of forest age-class structure — all in Japanese. See the Japanese page for the full list."
   },
   {
     "objectID": "publications.html#awards",
@@ -60,14 +67,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Reach me at contact@uchidamizuki.com."
-  },
-  {
-    "objectID": "contact.html#available-for",
-    "href": "contact.html#available-for",
-    "title": "Contact",
-    "section": "Available for",
-    "text": "Available for\n\nTalks and seminars\nTraining (input–output analysis, regional economic analysis, R and statistics)\nWriting for professional and practitioner journals\nCommittee and advisory roles\n\nUseful topics: compiling and using regional input–output tables, common pitfalls in economic ripple-effect analysis, population and employment projection, and statistical methods for evidence-based policy.\nFor bugs or feature requests in the R packages, please use GitHub Issues on the relevant repository."
+    "text": "Reach me at contact@uchidamizuki.com.\nFor bugs or feature requests in the R packages, please use GitHub Issues on the relevant repository."
   },
   {
     "objectID": "index.html",

@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.9.38">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="description" content="内田瑞生が開発する R パッケージ — 政府統計の取得、地理データ、データ構造、産業連関分析。">
+<meta name="description" content="内田瑞生が開発するパッケージ・ツール — 産業連関分析、政府統計・地理データ、データ構造、原稿テンプレート。">
 <title>ソフトウェア – Uchida Mizuki</title>
 <style>
 /* Default styles provided by pandoc.
@@ -29,7 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/clipboard/clipboard.min.js"></script><script src="site_libs/quarto-html/quarto.js" type="module"></script><script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script><script src="site_libs/quarto-html/popper.min.js"></script><script src="site_libs/quarto-html/tippy.umd.min.js"></script><link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script><link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2fb2531ca7640a14890fa552d686d531.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8a67de269f846a30c372a3501c0ebbb7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "一致なし",
@@ -119,8 +119,20 @@ ul.task-list li input[type="checkbox"] {
   
 
 
-</header><p>データ分析の再現性向上と効率化のために R パッケージを開発しています。ソースは <a href="https://github.com/UchidaMizuki">GitHub</a>、多くは <a href="https://cran.r-project.org/">CRAN</a> から利用できます。一覧は <a href="https://uchidamizuki.r-universe.dev">r-universe</a> にもあります。</p>
-<section id="政府統計地理データ" class="level2"><h2 data-anchor-id="政府統計地理データ">政府統計・地理データ</h2>
+</header><p>データ分析の再現性向上・効率化のためのパッケージやツールを開発しています。多くは R ですが、Typst テンプレートや Julia パッケージもあります。ソースは <a href="https://github.com/UchidaMizuki">GitHub</a>、R パッケージの多くは <a href="https://cran.r-project.org/">CRAN</a> と <a href="https://uchidamizuki.r-universe.dev">r-universe</a> から利用できます。</p>
+<section id="産業連関分析r" class="level2"><h2 data-anchor-id="産業連関分析r">産業連関分析（R）</h2>
+<ul>
+<li>
+<a href="https://github.com/UchidaMizuki/econio"><strong>econio</strong></a> — 産業連関分析</li>
+<li>
+<a href="https://github.com/UchidaMizuki/econiodatajp"><strong>econiodatajp</strong></a> — すぐ使える日本の産業連関表データ</li>
+<li>
+<a href="https://github.com/UchidaMizuki/econioread"><strong>econioread</strong></a> — 産業連関表の読み込み</li>
+<li>
+<a href="https://github.com/UchidaMizuki/econagent"><strong>econagent</strong></a> — 経済学における効用関数・複合財</li>
+<li>
+<a href="https://github.com/UchidaMizuki/ndgras"><strong>ndgras</strong></a> — nD-GRAS 法（RAS 法の多次元拡張）</li>
+</ul></section><section id="政府統計地理データr" class="level2"><h2 data-anchor-id="政府統計地理データr">政府統計・地理データ（R）</h2>
 <ul>
 <li>
 <a href="https://cran.r-project.org/package=jpstat"><strong>jpstat</strong></a> — e-Stat API から政府統計を取得</li>
@@ -130,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 <a href="https://cran.r-project.org/package=jpgrid"><strong>jpgrid</strong></a> — 地域メッシュコード（JIS X 0410）の操作</li>
 <li>
 <a href="https://cran.r-project.org/package=jpmap"><strong>jpmap</strong></a> — 沖縄・小笠原を配置した日本地図</li>
-</ul></section><section id="データ構造ツール" class="level2"><h2 data-anchor-id="データ構造ツール">データ構造・ツール</h2>
+</ul></section><section id="データ構造ツールr" class="level2"><h2 data-anchor-id="データ構造ツールr">データ構造・ツール（R）</h2>
 <ul>
 <li>
 <a href="https://cran.r-project.org/package=dibble"><strong>dibble</strong></a> — 次元付きデータフレーム</li>
@@ -144,12 +156,12 @@ ul.task-list li input[type="checkbox"] {
 <a href="https://cran.r-project.org/package=navigatr"><strong>navigatr</strong></a> — パイプ処理向けのナビゲーションメニュー</li>
 <li>
 <a href="https://cran.r-project.org/package=tarchives"><strong>tarchives</strong></a> — <code>targets</code> パイプラインをパッケージ化する</li>
-</ul></section><section id="産業連関分析" class="level2"><h2 data-anchor-id="産業連関分析">産業連関分析</h2>
+</ul></section><section id="r-以外" class="level2"><h2 data-anchor-id="r-以外">R 以外</h2>
 <ul>
 <li>
-<a href="https://github.com/UchidaMizuki/econio"><strong>econio</strong></a> — 産業連関分析</li>
+<a href="https://github.com/UchidaMizuki/typst-jste"><strong>traffic-jste</strong></a>（Typst） — 交通工学研究会（JSTE）投稿原稿の非公式テンプレート</li>
 <li>
-<a href="https://github.com/UchidaMizuki/econiodatajp"><strong>econiodatajp</strong></a> — すぐ使える日本の産業連関表データ</li>
+<a href="https://github.com/UchidaMizuki/TrafficAssign.jl"><strong>TrafficAssign.jl</strong></a>（Julia） — 交通配分</li>
 </ul></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const isCodeAnnotation = (el) => {

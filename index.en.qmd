@@ -5,6 +5,7 @@ about:
   template: jolla
   image: profile.jpg
   image-shape: round
+  image-width: 9rem
   links:
     - icon: github
       text: GitHub

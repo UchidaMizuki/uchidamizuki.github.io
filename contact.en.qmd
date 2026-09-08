@@ -8,13 +8,4 @@ comments: false
 
 Reach me at [contact@uchidamizuki.com](mailto:contact@uchidamizuki.com).
 
-## Available for
-
-- Talks and seminars
-- Training (input–output analysis, regional economic analysis, R and statistics)
-- Writing for professional and practitioner journals
-- Committee and advisory roles
-
-Useful topics: compiling and using regional input–output tables, common pitfalls in economic ripple-effect analysis, population and employment projection, and statistical methods for evidence-based policy.
-
 For bugs or feature requests in the R packages, please use [GitHub Issues](https://github.com/UchidaMizuki) on the relevant repository.
