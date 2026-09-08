@@ -1,14 +1,14 @@
 ---
 title: "Software"
 subtitle: "ソフトウェア"
-description-meta: "Packages and tools by Uchida Mizuki — input–output analysis, Japanese official statistics, geospatial data, data structures, and manuscript templates."
+description-meta: "R packages by Uchida Mizuki — input–output analysis, Japanese official statistics, geospatial data, and data structures."
 lang: en
 comments: false
 ---
 
-I build packages and tools to make data analysis more reproducible and efficient. Most are in R, with some Typst templates and Julia packages. Source is on [GitHub](https://github.com/UchidaMizuki); most of the R packages are on [CRAN](https://cran.r-project.org/) and [r-universe](https://uchidamizuki.r-universe.dev).
+I develop R packages. Source is on [GitHub](https://github.com/UchidaMizuki); most are on [CRAN](https://cran.r-project.org/) and [r-universe](https://uchidamizuki.r-universe.dev).
 
-## Input–output analysis (R)
+## Input–output analysis
 
 - [**econio**](https://github.com/UchidaMizuki/econio) — input–output analysis
 - [**econiodatajp**](https://github.com/UchidaMizuki/econiodatajp) — ready-to-use Japanese input–output tables
@@ -16,14 +16,14 @@ I build packages and tools to make data analysis more reproducible and efficient
 - [**econagent**](https://github.com/UchidaMizuki/econagent) — utility functions and composite goods in economics
 - [**ndgras**](https://github.com/UchidaMizuki/ndgras) — the nD-GRAS method (a multidimensional extension of RAS)
 
-## Japanese official statistics & geospatial data (R)
+## Japanese official statistics & geospatial data
 
 - [**jpstat**](https://cran.r-project.org/package=jpstat) — tools for easy use of the e-Stat API
 - [**jpcity**](https://cran.r-project.org/package=jpcity) — read and convert Japanese municipality codes
 - [**jpgrid**](https://cran.r-project.org/package=jpgrid) — functions for the Grid Square Codes (JIS X 0410)
 - [**jpmap**](https://cran.r-project.org/package=jpmap) — Japan maps with insets for Okinawa and Ogasawara
 
-## Data structures & tooling (R)
+## Data structures & tooling
 
 - [**dibble**](https://cran.r-project.org/package=dibble) — dimensional data frames
 - [**timbr**](https://cran.r-project.org/package=timbr) — forest / tree data frames
@@ -31,8 +31,3 @@ I build packages and tools to make data analysis more reproducible and efficient
 - [**adverbial**](https://cran.r-project.org/package=adverbial) — enhanced partialised and composed functions
 - [**navigatr**](https://cran.r-project.org/package=navigatr) — navigation menu for pipe-friendly data processing
 - [**tarchives**](https://cran.r-project.org/package=tarchives) — make your `targets` pipelines into a package
-
-## Beyond R
-
-- [**traffic-jste**](https://github.com/UchidaMizuki/typst-jste) (Typst) — unofficial template for Japan Society of Traffic Engineers (JSTE) manuscripts
-- [**TrafficAssign.jl**](https://github.com/UchidaMizuki/TrafficAssign.jl) (Julia) — traffic assignment

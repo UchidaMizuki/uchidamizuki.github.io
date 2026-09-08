@@ -34,6 +34,4 @@ comments: false
 
 **Researcher · R package developer &nbsp;/&nbsp; Regional economics & input–output analysis**
 
-I work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.
-
 [Publications](publications.qmd) &nbsp;·&nbsp; [Software](software.qmd)

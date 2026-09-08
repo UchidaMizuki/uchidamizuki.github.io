@@ -4,49 +4,42 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "I build packages and tools to make data analysis more reproducible and efficient. Most are in R, with some Typst templates and Julia packages. Source is on GitHub; most of the R packages are on CRAN and r-universe."
+    "text": "I develop R packages. Source is on GitHub; most are on CRAN and r-universe."
   },
   {
-    "objectID": "software.html#inputoutput-analysis-r",
-    "href": "software.html#inputoutput-analysis-r",
+    "objectID": "software.html#inputoutput-analysis",
+    "href": "software.html#inputoutput-analysis",
     "title": "Software",
-    "section": "Input–output analysis (R)",
-    "text": "Input–output analysis (R)\n\neconio — input–output analysis\neconiodatajp — ready-to-use Japanese input–output tables\neconioread — read input–output tables\neconagent — utility functions and composite goods in economics\nndgras — the nD-GRAS method (a multidimensional extension of RAS)"
+    "section": "Input–output analysis",
+    "text": "Input–output analysis\n\neconio — input–output analysis\neconiodatajp — ready-to-use Japanese input–output tables\neconioread — read input–output tables\neconagent — utility functions and composite goods in economics\nndgras — the nD-GRAS method (a multidimensional extension of RAS)"
   },
   {
-    "objectID": "software.html#japanese-official-statistics-geospatial-data-r",
-    "href": "software.html#japanese-official-statistics-geospatial-data-r",
+    "objectID": "software.html#japanese-official-statistics-geospatial-data",
+    "href": "software.html#japanese-official-statistics-geospatial-data",
     "title": "Software",
-    "section": "Japanese official statistics & geospatial data (R)",
-    "text": "Japanese official statistics & geospatial data (R)\n\njpstat — tools for easy use of the e-Stat API\njpcity — read and convert Japanese municipality codes\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpmap — Japan maps with insets for Okinawa and Ogasawara"
+    "section": "Japanese official statistics & geospatial data",
+    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpcity — read and convert Japanese municipality codes\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpmap — Japan maps with insets for Okinawa and Ogasawara"
   },
   {
-    "objectID": "software.html#data-structures-tooling-r",
-    "href": "software.html#data-structures-tooling-r",
+    "objectID": "software.html#data-structures-tooling",
+    "href": "software.html#data-structures-tooling",
     "title": "Software",
-    "section": "Data structures & tooling (R)",
-    "text": "Data structures & tooling (R)\n\ndibble — dimensional data frames\ntimbr — forest / tree data frames\nstickyr — data frames with persistent columns and attributes\nadverbial — enhanced partialised and composed functions\nnavigatr — navigation menu for pipe-friendly data processing\ntarchives — make your targets pipelines into a package"
-  },
-  {
-    "objectID": "software.html#beyond-r",
-    "href": "software.html#beyond-r",
-    "title": "Software",
-    "section": "Beyond R",
-    "text": "Beyond R\n\ntraffic-jste (Typst) — unofficial template for Japan Society of Traffic Engineers (JSTE) manuscripts\nTrafficAssign.jl (Julia) — traffic assignment"
+    "section": "Data structures & tooling",
+    "text": "Data structures & tooling\n\ndibble — dimensional data frames\ntimbr — forest / tree data frames\nstickyr — data frames with persistent columns and attributes\nadverbial — enhanced partialised and composed functions\nnavigatr — navigation menu for pipe-friendly data processing\ntarchives — make your targets pipelines into a package"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Uchida Mizuki",
     "section": "",
-    "text": "内田瑞生  ｜  Research Institute for Infrastructure Paradigm Shift, Yachiyo Engineering Co., Ltd.\nResearcher · R package developer  /  Regional economics & input–output analysis\nI work on research toward regional sustainability, and build open-source packages to make data analysis more reproducible and efficient.\nPublications  ·  Software"
+    "text": "内田瑞生  ｜  Research Institute for Infrastructure Paradigm Shift, Yachiyo Engineering Co., Ltd.\nResearcher · R package developer  /  Regional economics & input–output analysis\nPublications  ·  Software"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Uchida Mizuki · ORCID: 0009-0003-6534-6942\nI study how well regional economies can be measured from limited statistics as Japan’s population declines — testing where the figures used in practice (economic ripple effects, population and employment projections) are statistically reliable, and releasing the methods as papers and R packages.\nBold marks the author. Presentations without an official English title are given by their Japanese title, marked (in Japanese)."
+    "text": "Uchida Mizuki · ORCID: 0009-0003-6534-6942\nBold marks the author. Presentations without an official English title are given by their Japanese title, marked (in Japanese)."
   },
   {
     "objectID": "publications.html#peer-reviewed-articles",
