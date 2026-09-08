@@ -11,7 +11,7 @@
     "href": "software.html#政府統計地理データ",
     "title": "ソフトウェア",
     "section": "政府統計・地理データ",
-    "text": "政府統計・地理データ\n\njpstat — e-Stat API から政府統計を取得\njpgrid — 地域メッシュコード（JIS X 0410）の操作\njpcity — 市区町村コードの読み取りと変換\njpmap — 沖縄・小笠原を配置した日本地図"
+    "text": "政府統計・地理データ\n\njpstat — e-Stat API から政府統計を取得\njpgrid — 地域メッシュコード（JIS X 0410）の操作\njpcity — 市区町村コードの読み取りと変換"
   },
   {
     "objectID": "software.html#データ構造ツール",

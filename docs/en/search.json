@@ -11,7 +11,7 @@
     "href": "software.html#japanese-official-statistics-geospatial-data",
     "title": "Software",
     "section": "Japanese official statistics & geospatial data",
-    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpcity — read and convert Japanese municipality codes\njpmap — Japan maps with insets for Okinawa and Ogasawara"
+    "text": "Japanese official statistics & geospatial data\n\njpstat — tools for easy use of the e-Stat API\njpgrid — functions for the Grid Square Codes (JIS X 0410)\njpcity — read and convert Japanese municipality codes"
   },
   {
     "objectID": "software.html#data-structures-tooling",

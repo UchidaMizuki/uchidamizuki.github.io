@@ -13,7 +13,6 @@ R パッケージを開発しています。ソースは [GitHub](https://github
 - [**jpstat**](https://cran.r-project.org/package=jpstat) — e-Stat API から政府統計を取得
 - [**jpgrid**](https://cran.r-project.org/package=jpgrid) — 地域メッシュコード（JIS X 0410）の操作
 - [**jpcity**](https://cran.r-project.org/package=jpcity) — 市区町村コードの読み取りと変換
-- [**jpmap**](https://cran.r-project.org/package=jpmap) — 沖縄・小笠原を配置した日本地図
 
 ## データ構造・ツール
 

@@ -13,7 +13,6 @@ I develop R packages. Source is on [GitHub](https://github.com/UchidaMizuki); mo
 - [**jpstat**](https://cran.r-project.org/package=jpstat) — tools for easy use of the e-Stat API
 - [**jpgrid**](https://cran.r-project.org/package=jpgrid) — functions for the Grid Square Codes (JIS X 0410)
 - [**jpcity**](https://cran.r-project.org/package=jpcity) — read and convert Japanese municipality codes
-- [**jpmap**](https://cran.r-project.org/package=jpmap) — Japan maps with insets for Okinawa and Ogasawara
 
 ## Data structures & tooling
 
