@@ -1,6 +1,5 @@
 ---
 title: "ソフトウェア"
-subtitle: "Software"
 description-meta: "内田瑞生が開発する R パッケージ — 政府統計・地理データ、データ構造、経済分析。"
 lang: ja
 comments: false

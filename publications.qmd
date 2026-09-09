@@ -1,6 +1,5 @@
 ---
 title: "論文・発表"
-subtitle: "Publications & presentations"
 toc: true
 toc-depth: 2
 toc-title: "目次"

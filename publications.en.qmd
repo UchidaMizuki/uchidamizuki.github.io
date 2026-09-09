@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-subtitle: "論文・発表"
 toc: true
 toc-depth: 2
 lang: en
