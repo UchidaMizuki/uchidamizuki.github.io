@@ -24,10 +24,10 @@ Bold marks the author. Presentations without an official English title are given
 
 ### 2026
 
-- **Uchida, M.**, & Takamori, S. 「施策変数の違いに着目した現代ポートフォリオ理論に基づく地域産業構成の評価手法の比較検討」 *(in Japanese)*. Annual Meeting of the Architectural Institute of Japan (2026), Summaries of Technical Papers, 401–402.
+- **Uchida, M.**, & Takamori, S. Comparing evaluation methods for regional industrial structure based on modern portfolio theory: focusing on policy variables. Annual Meeting of the Architectural Institute of Japan (Chugoku, 2026), Summaries of Technical Papers, 401–402. [PDF](https://www.yachiyo-eng.co.jp/papers/2026_623_uchida.pdf)
 - **Uchida, M.**, & Takamori, S. 「観測ノイズを含む産業別地域間交易データの経験ベイズ法による平滑化の試行」 *(in Japanese)*. 46th Conference of the Japan Society of Traffic Engineers.
-- *(forthcoming)* **Uchida, M.**, & Nakazawa, J. Considerations on the semi-survey method using consumer expenditure survey data: observation noise and data preprocessing. 37th (2026) Annual Meeting, Pan-Pacific Association of Input-Output Studies (PAPAIOS).
-- *(forthcoming)* Nakazawa, J., & **Uchida, M.** Survey design and practical challenges for compiling regional input–output tables in local governments. 37th (2026) Annual Meeting, PAPAIOS.
+- **Uchida, M.**, & Nakazawa, J. Considerations on the semi-survey method using consumer expenditure survey data: observation noise and data preprocessing. 37th (2026) Annual Meeting, Pan-Pacific Association of Input-Output Studies (PAPAIOS).
+- Nakazawa, J., & **Uchida, M.** Survey design and practical challenges for compiling regional input–output tables in local governments. 37th (2026) Annual Meeting, PAPAIOS.
 
 ### 2025
 
@@ -69,6 +69,7 @@ for the full list.
 
 ## Awards
 
+- Encouragement Award — Pan-Pacific Association of Input-Output Studies (PAPAIOS) (2026), for Uchida (2026), *Journal of Economic Structures*, 15, Article 7
 - Young Researcher's Best Presentation Award — 2024 Annual Meeting of the Architectural Institute of Japan (Hokkaido); AIJ Committee on Urban Planning (2025)
 - Best Master's Thesis Award (Architecture & Environmental Systems, FY2019) — Waseda University, Graduate School of Creative Science and Engineering (2020)
 - Excellence Award, 18th MAS Competition — Kozo Keikaku Engineering (2018)
